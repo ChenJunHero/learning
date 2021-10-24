@@ -42,4 +42,6 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 }
 func main() {
 	fmt.Println("lca...")
+	a := []int{}
+	a.insert(1,1)
 }
